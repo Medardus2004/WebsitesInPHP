@@ -19,3 +19,11 @@ Shows all routes
 **$> bin/console make:controller**
 
 erzeugt einen Controller
+
+**routes.yaml**
+
+In here, routes are configured
+
+**public**
+
+In here, i.e. css files can be configured
