@@ -1,5 +1,0 @@
-index:
-    path: /symfony4/Lebenslauf
-    controller: Symfony\Bundle\FrameworkBundle\Controller\TemplateController::templateAction
-    defaults: 
-      template: 'hello_page.html.twig'
